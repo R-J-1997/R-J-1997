@@ -6,5 +6,5 @@
 
 <!---
 R-J-1997/R-J-1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.  https://docs.github.com/en/get-started/quickstart/hello-world
+You can click the Preview link to take a look at your changes.  https://docs.github.com/en/get-started/quickstart/hello-world  https://developer.cisco.com/learning/tracks/devnet-beginner
 --->
